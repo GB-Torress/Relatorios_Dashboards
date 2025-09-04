@@ -1,6 +1,6 @@
 
 ## 10.Relatorios Dashboards CRM
-_Projeto Acadêmico em Banco de Dados_
+• Projeto Acadêmico em Banco de Dados
 
 #### INTEGRANTES DO GRUPO
 
